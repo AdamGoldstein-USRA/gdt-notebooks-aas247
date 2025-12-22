@@ -1,1 +1,2 @@
-astro-gdt-fermi==2.2.1
+astro-gdt-fermi
+astro-gdt-swift
